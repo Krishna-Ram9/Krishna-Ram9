@@ -1,4 +1,4 @@
-# Krishna-Ram9- # Hi, I'm Krishna 👋
+# Hi, I'm Krishna 👋
 
 Mechanical Engineering undergrad (UVCE, Bengaluru) working at the intersection of **CAD, FEA/CFD, and vehicle dynamics**. Founding Team Lead of **UVEGA Motorsports**, UVCE's first Formula Student team, building toward Formula Bharat & Supra SAE 2027.
 
