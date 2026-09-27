@@ -11,7 +11,7 @@ Mechanical Engineering undergrad (UVCE, Bengaluru) working at the intersection o
 
 ### Featured Projects
 
-**🔩 [GE Jet Engine Bracket — Topology Optimization](#)**
+**🔩 [GE Jet Engine Bracket — Topology Optimization](https://github.com/Krishna-Ram9/GE-Jet-Engine-bracket-topology-optimization)**
 Reconstructed the GrabCAD challenge geometry from published specs, ran a 4-level ANSYS mesh sensitivity study (5.6K → 473K elements), and diagnosed a mesh-sensitive stress concentration at a boss-to-boss feature. Baseline: 348.62 MPa peak stress, FOS 2.59 @ 1.094 kg. Now building a SIMP-based weight-reduced redesign.
 
 **🏁 [Formula Student Chassis — FEA Validation](#)**
