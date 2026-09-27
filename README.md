@@ -17,7 +17,7 @@ Reconstructed the GrabCAD challenge geometry from published specs, ran a 4-level
 **🏁 [Formula Student Chassis — FEA Validation](#)**
 Designed and validated an AISI 4130 chromoly spaceframe (29.3 kg, down from 35 kg / −16.3%). Frontal impact FOS 1.704 (Formula Bharat T3.18), rear FOS 2.56, torsional stiffness 3,500.86 Nm/deg. Cross-validated SolidWorks vs. ANSYS and traced a ~20% stress discrepancy to a shared-topology connectivity defect.
 
-**📐 [Suspension Geometry Optimizer (Python)](#)**
+**📐 [Suspension Geometry Optimizer (Python)](https://github.com/Krishna-Ram9/Double-Wishbone-Kinematics)**
 Custom 4-bar linkage solver for front/rear double-wishbone kinematics. Converged to static roll centers of 16.9 mm (front) / 26.4 mm (rear), camber gain of −1.08°/−0.93° per 25 mm travel, and reduced roll-center migration spread to 42.8 mm (front) / 9.4 mm (rear).
 
 ---
